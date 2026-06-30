@@ -29,6 +29,7 @@ HackerRank-Solutions/
 ├── SQL/
 ├── Python/
 ├── C++/
+├── C/
 ├── Java/
 └── README.md
 ```
